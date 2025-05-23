@@ -2,8 +2,22 @@
 
 🤖🤖 **`Engenheiro de Dados`** 🤖🤖
 
-Me chamo Maike Ramos
+Engenheiro de Dados | Desenvolvedor Python | Entusiasta de Cloud Computing
 
+Sou um Engenheiro de Dados com experiência em projetar, construir e manter arquiteturas de dados robustas e escaláveis. Adoro trabalhar com grandes volumes de dados para transformá-los em informações valiosas que impulsionam decisões de negócios.
+---
+* **Linguagens:** Python, SQL
+* **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, BigQuery, Snowflake
+* **Ferramentas ETL:** Apache Airflow, dbt
+* **Plataformas Cloud:** AWS (S3, EC2, Redshift, Glue), Google Cloud Platform (GCS, BigQuery, Dataflow)
+* **Versionamento:** Git, GitHub
+* **Outros:** Docker, Kubernetes
+---
+### O que estou fazendo no momento:
+
+Atualmente estou focado em aprender mais sobre Data Science, Analise de Dados e Inteligência Artificial.
+
+---
 <p align="left"> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
