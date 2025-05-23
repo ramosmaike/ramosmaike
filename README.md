@@ -19,7 +19,13 @@ Me chamo Maike Ramos
             src="https://custom-icon-badges.demolab.com/github/followers/ramosmaike?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+    <a href="https://www.linkedin.com/in/maike-system" target="_blank">
+        <img 
+            alt="Link para o LinkedIn" 
+            title="Meu perfil do LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=Seguidores&logoColor=white"
+        />
+    </a>
 
 <img 
     align="left" 
