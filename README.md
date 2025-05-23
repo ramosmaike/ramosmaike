@@ -137,6 +137,22 @@ Atualmente estou focado em aprender mais sobre Data Science, Analise de Dados e 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="R" 
+    title="R"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jupyter Notebook" 
+    title="Jupyter Notebook"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
+/>
 
 <br/>
 <br/>
