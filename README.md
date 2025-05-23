@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Maike Ramos
+## 💻 Maike Ramos
 
 **`Engenheiro de Dados`**
 
