@@ -1,5 +1,9 @@
 ## 👩🏻‍💻 Maike Ramos
 
+**`Engenheiro de Dados`**
+
+Me chamo Maike Ramos
+
 <p align="left"> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
