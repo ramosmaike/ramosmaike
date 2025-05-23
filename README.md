@@ -1,4 +1,4 @@
-## Maike Ramos
+## 👩🏻‍💻 Maike Ramos
 
 <p align="left"> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
