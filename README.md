@@ -7,9 +7,9 @@ Engenheiro de Dados | Desenvolvedor Python | Entusiasta de Cloud Computing
 Sou um Engenheiro de Dados com experiência em projetar, construir e manter arquiteturas de dados robustas e escaláveis. Adoro trabalhar com grandes volumes de dados para transformá-los em informações valiosas que impulsionam decisões de negócios.
 ---
 * **Linguagens:** Python, SQL
-* **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, BigQuery, Snowflake
+* **Bancos de Dados:** PostgreSQL, MySQL, MongoDB
 * **Ferramentas ETL:** Apache Airflow, dbt
-* **Plataformas Cloud:** AWS (S3, EC2, Redshift, Glue), Google Cloud Platform (GCS, BigQuery, Dataflow)
+* **Plataformas Cloud:** Google Cloud Platform (GCS, BigQuery, Dataflow)
 * **Versionamento:** Git, GitHub
 * **Outros:** Docker, Kubernetes
 ---
