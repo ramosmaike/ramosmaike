@@ -26,7 +26,7 @@ Atualmente estou focado em aprender mais sobre Data Science, Analise de Dados e 
             src="https://custom-icon-badges.demolab.com/github/stars/ramosmaike?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/ramosmaike?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
