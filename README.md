@@ -19,7 +19,7 @@ Atualmente estou focado em aprender mais sobre Data Science, Analise de Dados e 
 
 ---
 <p align="left"> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ramosmaike?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
