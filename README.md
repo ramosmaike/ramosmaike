@@ -173,7 +173,7 @@ Atualmente estou focado em aprender mais sobre Data Science, Analise de Dados e 
 <br/>
 
 ### 📊 Estatísticas
---
+\`\`\`
 <p>
   <img 
     align="left" 
@@ -191,4 +191,5 @@ Atualmente estou focado em aprender mais sobre Data Science, Analise de Dados e 
   />
 
 </p>
---
+
+\`\`\`
