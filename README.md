@@ -178,7 +178,7 @@ Atualmente estou focado em aprender mais sobre Data Science, Analise de Dados e 
 <p align="left">
   <img 
     height="300" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramosmaike&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramosmaike&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
