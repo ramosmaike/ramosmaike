@@ -173,23 +173,13 @@ Atualmente estou focado em aprender mais sobre Data Science, Analise de Dados e 
 <br/>
 
 ### 📊 Estatísticas
-\`\`\`
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ramosmaike&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramosmaike&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="left">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ramosmaike&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramosmaike&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
-\`\`\`
+<br/>
+
+> 💡 **Nota:** As estatísticas acima refletem meu engajamento global no GitHub, incluindo contribuições em repositórios públicos e privados.
+
