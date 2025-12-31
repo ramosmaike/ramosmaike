@@ -175,7 +175,7 @@ Atualmente estou focado em aprender mais sobre Data Science, Analise de Dados e 
 ### 📊 Estatísticas
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=ramosmaike&show_icons=true&theme=radical" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=ramosmaike&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
