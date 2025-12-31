@@ -177,7 +177,7 @@ Atualmente estou focado em aprender mais sobre Data Science, Analise de Dados e 
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramosmaike&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=ramosmaike&theme=tokyonight" />
+  
 </p>
 
 
