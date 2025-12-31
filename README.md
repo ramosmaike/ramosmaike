@@ -173,7 +173,7 @@ Atualmente estou focado em aprender mais sobre Data Science, Analise de Dados e 
 <br/>
 
 ### 📊 Estatísticas
-
+<meta property="twitter:image" content="Twitter link preview image URL">
 <p>
   <img 
     align="left" 
