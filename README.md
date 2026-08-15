@@ -58,6 +58,6 @@ Sou Engenheiro de Dados com experiência no desenho, construção e manutenção
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img src="https://www.linkedin.com/notifications/" alt="Estatísticas do GitHub" />
   <img src="https://vercel.app" alt="Idiomas Mais Usados" />
 </p>
