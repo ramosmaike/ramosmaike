@@ -55,9 +55,6 @@ Sou Engenheiro de Dados com experiência no desenho, construção e manutenção
 
 ---
 
-### 📊 Estatísticas
+### 📈 Minhas Estatísticas do LinkedIn (Últimos 30 dias)
+![Estatísticas do LinkedIn](views-linkedin.png)
 
-<p align="left">
-  <img src="https://www.linkedin.com/analytics/profile-views/" alt="Estatísticas do GitHub" />
-  <img src="https://vercel.app" alt="Idiomas Mais Usados" />
-</p>
