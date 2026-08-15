@@ -175,13 +175,8 @@ Atualmente estou focado em aprender mais sobre Data Science, Analise de Dados e 
 ### 📊 Estatísticas
 
 <p align="left">
-  <img 
-    height="300" 
-    src="https://vercel.app" 
-  />
-
-  <img 
-    height="300" 
-    src="https://vercel.app" 
-  />
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img src="https://vercel.app" alt="Idiomas Mais Usados" />
+  <img src="https://herokuapp.com" alt="Sequência de Commits" />
 </p>
+
