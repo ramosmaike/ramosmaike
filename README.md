@@ -1,49 +1,59 @@
-<div align="center">
-  <h1>Hi there, I'm Maike Ramos 👋</h1>
-  <p><strong>Data Engineer | Python Developer | Cloud Analytics | AI Enthusiast</strong></p>
-  
-  <p align="center">
-    <a href="https://github.com">
-      <img alt="Total de estrelas" src="https://demolab.com"/>
-    </a>
-    <a href="https://github.com">
-      <img alt="Seguidores" src="https://demolab.com"/>
-    </a>
-    <a href="https://linkedin.com" target="_blank">
-      <img alt="LinkedIn" src="https://shields.io"/>
-    </a>
-  </p>
-</div>
+# 💻 Maike Ramos 💻
 
----
+## 🤖 Engenheiro de Dados & Aspirante a Cientista de Dados 🤖
 
-### 🚀 Sobre Mim
+Engenheiro de Dados | Desenvolvedor Python | Cloud Analytics | IA Entusiasta
 
-Sou **Engenheiro de Dados** com sólida experiência no desenho, construção e manutenção de pipelines de dados robustos e escaláveis. Atualmente, estou unindo minha base forte em infraestrutura de dados, automação e nuvem para desenvolver soluções avançadas em **Data Science, Analytics e Inteligência Artificial**.
+Sou Engenheiro de Dados com experiência no desenho, construção e manutenção de pipelines de dados robustos e escaláveis. Atualmente, estou unindo minha base sólida em infraestrutura de dados para criar soluções avançadas em Data Science, Analytics e Inteligência Artificial.
 
 ---
 
 ### 🛠️ Stack Tecnológica
 
-| Categoria | Tecnologias & Ferramentas |
-| :--- | :--- |
-| **Linguagens** | ![Python](https://shields.io) ![SQL](https://shields.io) ![R](https://shields.io) |
-| **Bancos de Dados** | ![PostgreSQL](https://shields.io) ![MySQL](https://shields.io) ![MongoDB](https://shields.io) ![BigQuery](https://shields.io) |
-| **Engenharia (ETL/ELT)** | ![Airflow](https://shields.io) ![dbt](https://shields.io) ![Dataflow](https://shields.io) |
-| **Data Science & IA** | ![Pandas](https://shields.io) ![NumPy](https://shields.io) ![Scikit-Learn](https://shields.io) ![Jupyter](https://shields.io) |
-| **Cloud & DevOps** | ![GCP](https://shields.io) ![Docker](https://shields.io) ![Kubernetes](https://shields.io) ![Git](https://shields.io) |
+*   **Linguagens:** Python, SQL, R
+*   **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, BigQuery
+*   **Engenharia de Dados (ETL/ELT):** Apache Airflow, dbt, Apache Dataflow
+*   **Data Science & IA:** Pandas, NumPy, Scikit-Learn, Jupyter Notebook
+*   **Infraestrutura & Cloud:** Google Cloud Platform (GCP), GCS, Docker, Kubernetes
+*   **Versionamento:** Git, GitHub
 
 ---
 
-### 🎯 Foco e Objetivos Atuais
+### 🚀 Objetivos e Aprendizado Atual
 
-*   🤖 Desenvolvimento e validação de modelos de **Machine Learning** e **Deep Learning**.
-*   📊 Construção de análises exploratórias avançadas (**EDA**) e visualizações de dados orientadas a negócio.
-*   ☁️ Implementação de pipelines de **MLOps** para automatizar o ciclo de vida e o deploy de modelos em nuvem.
+*   🤖 Desenvolvimento de modelos de Machine Learning e Deep Learning.
+*   📊 Criação de dashboards estatísticos e análise exploratória de dados (EDA).
+*   ☁️ Implementação de arquiteturas de MLOps para deploy de modelos em nuvem.
 
 ---
 
-### 📈 Estatísticas do LinkedIn (Últimos 30 dias)
-<p align="center">
-  <img src="views-linkedin.png" alt="Estatísticas do LinkedIn" />
+### 🔗 Conecte-se Comigo
+
+<p align="left"> 
+    <a href="https://github.com/ramosmaike?tab=repositories&sort=stargazers">
+        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ramosmaike?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+    </a>
+    <a href="https://github.com/ramosmaike?tab=followers">
+        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ramosmaike?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/maike-system" target="_blank">
+        <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
 </p>
+
+#### Tecnologias em Destaque:
+<p align="left">
+    <img title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img title="R" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+    <img title="Jupyter Notebook" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+    <img title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    
+  
+
+   
+</p>
+
+---
+
+### 📈 Minhas Estatísticas do LinkedIn (Últimos 30 dias)
+![Estatísticas do LinkedIn](views-linkedin.png)
