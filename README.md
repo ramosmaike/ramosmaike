@@ -47,9 +47,9 @@ Sou Engenheiro de Dados com experiência no desenho, construção e manutenção
     <img title="R" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
     <img title="Jupyter Notebook" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
     <img title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    <img title="Google Cloud" width="40px" style="padding-right: 10px;" src="https://vectorlogo.zone" alt="Google Cloud Logo" />
+  
 
-    <img title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+   
 </p>
 
 ---
