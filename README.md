@@ -62,15 +62,3 @@ Sou Engenheiro de Dados com sólida experiência no desenho, construção e manu
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img src="https://vercel.app" alt="Idiomas Mais Usados" />
-</p>
-
-#### 📅 Histórico de Contribuições
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Gráfico de Contribuições do Maike" width="100%" />
-  </a>
-</p>
-
