@@ -49,11 +49,17 @@ Sou Engenheiro de Dados com experiência no desenho, construção e manutenção
     <img title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
 
-## 📈 Atividade GitHub
+## 📊 Dashboard Profissional
 
-<p align="center">
-  https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramosmaike&theme=github_dark
-</p>
+<div align="center">
+
+https://github-readme-stats.vercel.app/api?username=ramosmaike&show_icons=true&theme=github_dark
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ramosmaike&layout=compact&theme=github_dark
+
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramosmaike&theme=github_dark
+
+</div>
 
 <!-- </p>
 
