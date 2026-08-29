@@ -53,7 +53,6 @@ Sou Engenheiro de Dados com experiência no desenho, construção e manutenção
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=ramosmaike&show_icons=true&theme=github_dark
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=ramosmaike&layout=compact&theme=github_dark
 
