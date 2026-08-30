@@ -37,8 +37,7 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://shields.io)
+![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://shields.io)
 ![BigQuery](https://shields.io)
 
