@@ -45,12 +45,14 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 ![MongoDB](https://shields.io)
 ![BigQuery](https://shields.io)
 
-### Cloud & DevOps
-<p align="left">
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Google Cloud" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Docker" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Kubernetes" />
-</p>
+###Databases & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
 
 ---
 
