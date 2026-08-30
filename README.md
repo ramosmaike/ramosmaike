@@ -37,12 +37,10 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Banco de Dados
-<p align="left">
-  <img src="https://jsdelivr.net" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="MySQL" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="MongoDB" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="BigQuery" />
-</p>
+![PostgreSQL](https://shields.io)
+![MySQL](https://shields.io)
+![MongoDB](https://shields.io)
+![BigQuery](https://shields.io)
 
 ### Cloud & DevOps
 <p align="left">
