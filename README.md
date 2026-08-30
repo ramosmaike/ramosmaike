@@ -54,9 +54,20 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 
 ## 📊 Estatísticas GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ramosmaike&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ramosmaike&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ramosmaike&layout=compact&theme=tokyonight&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ramosmaike&layout=compact&theme=tokyonight&hide_border=true) -->
+
+---
+
+<!-- CARD DE INFORMAÇÕES GERAIS (SERVIDOR SECUNDÁRIO ATIVO) -->
+![Estatísticas do GitHub](https://vercel.app)
+
+<!-- CARD DE LINGUAGENS (SERVIDOR SECUNDÁRIO ATIVO) -->
+![Linguagens mais usadas](https://vercel.app)
+
+---
+
 
 ---
 
