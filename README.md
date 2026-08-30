@@ -32,11 +32,10 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 ![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Data Science
-<p align="left">
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Pandas" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="NumPy" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Scikit-Learn" />
-</p>
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
+![Scikit-Learn](https://shields.io)
+
 ### Banco de Dados
 <p align="left">
   <img src="https://jsdelivr.net" width="40" height="40" alt="PostgreSQL" />
