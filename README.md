@@ -33,8 +33,8 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://shields.io)
-![Scikit-Learn](https://shields.io)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://shields.io/)
 
 ### Banco de Dados
 <p align="left">
