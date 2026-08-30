@@ -39,12 +39,6 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://shields.io)
-![BigQuery](https://shields.io)
-
 ### Databeses & DevOps
 
 ![MySQL](https://img.shields.io/badge/MySQL-4169E1?style=flat&logo=mysql&logoColor=white)
