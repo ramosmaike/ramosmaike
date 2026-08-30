@@ -54,73 +54,7 @@ Sou Engenheiro de Dados com experiência no desenho, construção e manutenção
 <div align="center">
 
 
-st.divider()
-146
- 
-147
-st.header("📊 Tecnologias")
-148
- 
-149
-linguagens = {}
-150
- 
-151
-for repo in repos:
-152
- 
-153
-linguagem = repo.get("language")
-154
- 
-155
-if linguagem:
-156
- 
-157
-linguagens[linguagem] = (
-158
-linguagens.get(linguagem, 0) + 1
-159
-)
-160
- 
-161
-if linguagens:
-162
- 
-163
-df = pd.DataFrame({
-164
-"Linguagem": list(linguagens.keys()),
-165
-"Quantidade": list(linguagens.values())
-166
-})
-167
- 
-168
-fig = px.bar(
-169
-df,
-170
-x="Linguagem",
-171
-y="Quantidade",
-172
-color="Linguagem"
-173
-)
-174
- 
-175
-st.plotly_chart(
-176
-fig,
-177
-use_container_width=True
-178
-)
+
 
 </div>
 
