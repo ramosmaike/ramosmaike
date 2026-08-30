@@ -81,7 +81,7 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maike%20Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maike-system)
 [![GitHub](https://img.shields.io/badge/GitHub-ramosmaike-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramosmaike)
-<!-- não está funcionando o link >> [![Email](https://shields.io)](mailto:maikesystem@gmail.com)-->
+<!-- não está funcionando o link  [![Email](https://shields.io)](mailto:maikesystem@gmail.com) -->
 
 
 ---
