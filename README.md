@@ -19,7 +19,7 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 
 ## 🛠️ Tecnologias
 
-[![Gráfico de Tecnologias](grafico-tecnologias.png)](https://streamlit.app)
+
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,9 +67,6 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 
 <!-- CARD DE LINGUAGENS (SERVIDOR SECUNDÁRIO ATIVO) -->
 ![Linguagens mais usadas](https://vercel.app)
-
----
-
 
 ---
 
