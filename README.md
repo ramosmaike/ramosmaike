@@ -32,7 +32,7 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 ### Engenharia de Dados
 ![Airflow](https://img.shields.io/badge/Airflow-4169E1?style=flat&logo=airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
