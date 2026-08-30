@@ -57,7 +57,7 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ramosmaike&layout=compact&theme=tokyonight&hide_border=true) -->
 
----
+
 
 <!-- CARD DE INFORMAÇÕES GERAIS (SERVIDOR SECUNDÁRIO ATIVO) 
 ![Estatísticas do GitHub](https://vercel.app) -->
