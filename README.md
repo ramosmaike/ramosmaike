@@ -19,6 +19,8 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 
 ## 🛠️ Tecnologias
 
+[![Gráfico de Tecnologias](grafico-tecnologias.png)](https://streamlit.app)
+
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
