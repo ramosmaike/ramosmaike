@@ -35,9 +35,9 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 ![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-777BB4?style=flat&logo=numpy&logoColor=white)
 
 ### Databeses & DevOps
 
