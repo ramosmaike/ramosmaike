@@ -59,11 +59,11 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 
 ---
 
-<!-- CARD DE INFORMAÇÕES GERAIS (SERVIDOR SECUNDÁRIO ATIVO) -->
-![Estatísticas do GitHub](https://vercel.app)
+<!-- CARD DE INFORMAÇÕES GERAIS (SERVIDOR SECUNDÁRIO ATIVO) 
+![Estatísticas do GitHub](https://vercel.app) -->
 
-<!-- CARD DE LINGUAGENS (SERVIDOR SECUNDÁRIO ATIVO) -->
-![Linguagens mais usadas](https://vercel.app)
+<!-- CARD DE LINGUAGENS (SERVIDOR SECUNDÁRIO ATIVO) 
+![Linguagens mais usadas](https://vercel.app) -->
 
 ---
 
