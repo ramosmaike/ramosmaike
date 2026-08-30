@@ -1,6 +1,6 @@
-# 💻 Maike Ramos 💻
+# 💻 Maike Ramos
 
-## 🤖 Engenheiro de Dados & Aspirante a Cientista de Dados 🤖
+## 🤖 Engenheiro de Dados & Aspirante a Cientista de Dados
 
 Engenheiro de Dados | Desenvolvedor Python | Cloud Analytics | IA Entusiasta
 
@@ -8,61 +8,119 @@ Sou Engenheiro de Dados com experiência no desenho, construção e manutenção
 
 ---
 
-### 🛠️ Stack Tecnológica
+## 🛠️ Stack Tecnológica
 
-*   **Linguagens:** Python, SQL, R
-*   **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, BigQuery
-*   **Engenharia de Dados (ETL/ELT):** Apache Airflow, dbt, Apache Dataflow
-*   **Data Science & IA:** Pandas, NumPy, Scikit-Learn, Jupyter Notebook
-*   **Infraestrutura & Cloud:** Google Cloud Platform (GCP), GCS, Docker, Kubernetes
-*   **Versionamento:** Git, GitHub
+### Linguagens
+- Python
+- SQL
+- R
+
+### Bancos de Dados
+- PostgreSQL
+- MySQL
+- MongoDB
+- BigQuery
+
+### Engenharia de Dados
+- Apache Airflow
+- DBT
+- Apache Dataflow
+
+### Data Science & IA
+- Pandas
+- NumPy
+- Scikit-Learn
+- Jupyter Notebook
+
+### Cloud & Infraestrutura
+- Google Cloud Platform (GCP)
+- Docker
+- Kubernetes
+- Google Cloud Storage
+
+### Versionamento
+- Git
+- GitHub
 
 ---
 
-### 🚀 Objetivos e Aprendizado Atual
+## 🚀 Objetivos e Aprendizado Atual
 
-*   🤖 Desenvolvimento de modelos de Machine Learning e Deep Learning.
-*   📊 Criação de dashboards estatísticos e análise exploratória de dados (EDA).
-*   ☁️ Implementação de arquiteturas de MLOps para deploy de modelos em nuvem.
+- 🤖 Desenvolvimento de modelos de Machine Learning.
+- 🧠 Estudo de Deep Learning.
+- 📊 Dashboards analíticos.
+- ☁️ Arquiteturas de MLOps.
+- 📈 Análise Exploratória de Dados (EDA).
 
 ---
 
-### 🔗 Conecte-se Comigo
+## 🔗 Conecte-se Comigo
 
-<p align="left"> 
-    <a href="https://github.com/ramosmaike?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ramosmaike?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
-    </a>
-    <a href="https://github.com/ramosmaike?tab=followers">
-        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ramosmaike?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/maike-system" target="_blank">
-        <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
+https://img.shields.io/badge/GitHub-ramosmaike-181717?style=for-the-badge&logo=github](https://github.com/ramosmaike)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIns-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/maike-system)
+
+[![Email](https://img.shields.io/badge/Email-maikesystem@gmail.com-le=for-the-badge&logo=gmail&logoColor=white](mailto:maikesystem@gmail.com)
+
+---
+
+## 💻 Tecnologias em Destaque
+
+<p align="left">
+
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+
+<ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg
+
+<ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
+
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+
+<img src="httpselivr.net/gh/devicons/devicon/icons/docker/docker-original.svg
+
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
+
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg
+
 </p>
 
-#### Tecnologias em Destaque:
-<p align="left">
-    <img title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img title="R" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-    <img title="Jupyter Notebook" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-    <img title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
+---
 
 ## 📊 Dashboard Profissional
 
-<div align="center">
+<p align="center">
 
-st.markdown("""
-<h1>Dashboard Profissional</h1>
-""", unsafe_allow_html=True)
+<img height="170emdme-stats.vercel.app/api?username=ramosmaike&show_icons=true&theme=tokyonight
 
+<img height="170em" srctats.vercel.app/api/top-langs/?username=ramosmaike&layout=compact&theme=tokyonight
 
-</div>
+</p>
 
-<!-- </p>
+---
 
---- -->
+## 📈 Atividade no GitHub
 
-<!-- ### 📈 Minhas Estatísticas do LinkedIn (Últimos 30 dias)
-![Estatísticas do LinkedIn](views-linkedin.png) -->
+<p align="center">
+
+<img src="https://github-readme-streakokuapp.com/?user=ramosmaike&theme=tokyonight
+
+</p>
+
+---
+
+## 🎯 Áreas de Interesse
+
+- Engenharia de Dados
+- Ciência de Dados
+- Inteligência Artificial
+- Machine Learning
+- Automação com Python
+- Cloud Computing
+- Analytics
+- MLOps
+
+---
+
+⭐ Se gostar dos meus projetos, considere seguir meu perfil e acompanhar minha evolução na área de Dados.
