@@ -30,20 +30,25 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 ![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Data Science
-![Pandas](https://shields.io)
-![NumPy](https://shields.io)
-![Scikit-Learn](https://shields.io)
-
+<p align="left">
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Pandas" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="NumPy" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Scikit-Learn" />
+</p>
 ### Banco de Dados
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
-![MongoDB](https://shields.io)
-![BigQuery](https://shields.io)
+<p align="left">
+  <img src="https://jsdelivr.net" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="MySQL" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="MongoDB" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="BigQuery" />
+</p>
 
 ### Cloud & DevOps
-![Google Cloud](https://shields.io)
-![Docker](https://shields.io)
-![Kubernetes](https://shields.io)
+<p align="left">
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Google Cloud" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Docker" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Kubernetes" />
+</p>
 
 ---
 
