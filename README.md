@@ -1,126 +1,90 @@
-# 💻 Maike Ramos
+# 👋 Olá, eu sou Maike Ramos
 
-## 🤖 Engenheiro de Dados & Aspirante a Cientista de Dados
+### 🚀 Engenheiro de Dados | Python Developer | Cloud Analytics | Data Science
 
-Engenheiro de Dados | Desenvolvedor Python | Cloud Analytics | IA Entusiasta
-
-Sou Engenheiro de Dados com experiência no desenho, construção e manutenção de pipelines de dados robustos e escaláveis. Atualmente, estou unindo minha base sólida em infraestrutura de dados para criar soluções avançadas em Data Science, Analytics e Inteligência Artificial.
+Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados desenvolvendo pipelines escaláveis, integrações, soluções de analytics e processamento de grandes volumes de dados. Atualmente estou aprofundando meus conhecimentos em Ciência de Dados, Machine Learning e Inteligência Artificial.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 💼 Sobre Mim
+
+- 🔭 Trabalhando com Engenharia de Dados
+- 🌱 Estudando Data Science e Machine Learning
+- 🐍 Desenvolvedor Python
+- ☁️ Entusiasta de Cloud Computing
+- 📊 Apaixonado por Analytics e BI
+- 🚀 Sempre aprendendo novas tecnologias
+
+---
+
+## 🛠️ Tecnologias
 
 ### Linguagens
-- Python
-- SQL
-- R
 
-### Bancos de Dados
-- PostgreSQL
-- MySQL
-- MongoDB
-- BigQuery
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 
 ### Engenharia de Dados
-- Apache Airflow
-- DBT
-- Apache Dataflow
 
-### Data Science & IA
-- Pandas
-- NumPy
-- Scikit-Learn
-- Jupyter Notebook
+https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white
+https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white
+https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white
 
-### Cloud & Infraestrutura
-- Google Cloud Platform (GCP)
-- Docker
-- Kubernetes
-- Google Cloud Storage
+### Data Science
 
-### Versionamento
-- Git
-- GitHub
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-thego=numpy
+![Scikit Learn](https://img.shields.io/badge/Scikityle=for-the-badge&logo=scikitlearn
 
----
+### Banco de Dados
 
-## 🚀 Objetivos e Aprendizado Atual
+![PostgreSQL](ields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql
+https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb
+https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud
 
-- 🤖 Desenvolvimento de modelos de Machine Learning.
-- 🧠 Estudo de Deep Learning.
-- 📊 Dashboards analíticos.
-- ☁️ Arquiteturas de MLOps.
-- 📈 Análise Exploratória de Dados (EDA).
+### Cloud & DevOps
+
+https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker
+https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes
 
 ---
 
-## 🔗 Conecte-se Comigo
+## 📊 Estatísticas GitHub
 
-https://img.shields.io/badge/GitHub-ramosmaike-181717?style=for-the-badge&logo=github](https://github.com/ramosmaike)
+https://github-readme-stats.vercel.app/api?username=ramosmaike&show_icons=true&theme=tokyonight&hide_border=true
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIns-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/maike-system)
-
-[![Email](https://img.shields.io/badge/Email-maikesystem@gmail.com-le=for-the-badge&logo=gmail&logoColor=white](mailto:maikesystem@gmail.com)
+https://github-readme-stats.vercel.app/api/top-langs/?username=ramosmaike&layout=compact&theme=tokyonight&hide_border=true
 
 ---
 
-## 💻 Tecnologias em Destaque
+## 🔥 Sequência de Contribuições
 
-<p align="left">
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-
-<ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg
-
-<ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
-
-<img src="httpselivr.net/gh/devicons/devicon/icons/docker/docker-original.svg
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg
-
-</p>
+https://github-readme-streak-stats.herokuapp.com/?user=ramosmaike&theme=tokyonight&hide_border=true
 
 ---
 
-## 📊 Dashboard Profissional
+## 🎯 Foco Atual
 
-<p align="center">
-
-<img height="170emdme-stats.vercel.app/api?username=ramosmaike&show_icons=true&theme=tokyonight
-
-<img height="170em" srctats.vercel.app/api/top-langs/?username=ramosmaike&layout=compact&theme=tokyonight
-
-</p>
-
----
-
-## 📈 Atividade no GitHub
-
-<p align="center">
-
-<img src="https://github-readme-streakokuapp.com/?user=ramosmaike&theme=tokyonight
-
-</p>
+- 🤖 Machine Learning
+- 🧠 Inteligência Artificial
+- 📊 Análise Exploratória de Dados
+- ☁️ Arquiteturas em Nuvem
+- 🚀 MLOps
+- 📈 Analytics Avançado
 
 ---
 
-## 🎯 Áreas de Interesse
+## 📫 Contato
 
-- Engenharia de Dados
-- Ciência de Dados
-- Inteligência Artificial
-- Machine Learning
-- Automação com Python
-- Cloud Computing
-- Analytics
-- MLOps
+https://img.shields.io/badge/LinkedIn-Maike%20Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/maike-system)
+
+https://img.shields.io/badge/GitHub-ramosmaike-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/ramosmaike)
+
+https://img.shields.io/badge/Email-maikesystem@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:maikesystem@gmail.com)
 
 ---
 
-⭐ Se gostar dos meus projetos, considere seguir meu perfil e acompanhar minha evolução na área de Dados.
+⭐ Obrigado por visitar meu perfil. Fique à vontade para explorar meus projetos e acompanhar minha evolução no universo de Dados, Analytics e Inteligência Artificial.
