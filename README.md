@@ -45,7 +45,7 @@ Sou apaixonado por dados, automação e tecnologia. Atuo com Engenharia de Dados
 ![MongoDB](https://shields.io)
 ![BigQuery](https://shields.io)
 
-###Databases & DevOps
+###Databeses & DevOps
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
